@@ -16,4 +16,4 @@ Use the command python manage.py runserver ,to open the website.
 
 
 You can modify the users by using  '/admin' in the sufix of the homepage.
-
+ 
